@@ -1,4 +1,4 @@
-# 🤖 Gazebo & ROS 2 — From Zero to Hero
+# 🤖 Gazebo & ROS 2 
 ### A beginner-friendly guide (written like you're 10, explained till you're an engineer)
 
 ---
