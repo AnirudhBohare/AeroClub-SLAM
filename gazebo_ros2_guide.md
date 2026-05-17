@@ -1,5 +1,5 @@
 # 🤖 Gazebo & ROS 2 
-### A beginner-friendly guide (written like you're 10, explained till you're an engineer)
+### A beginner-friendly guide 
 
 ---
 
