@@ -17,12 +17,18 @@ wget -O - https://raw.githubusercontent.com/mavlink/mavros/master/mavros/scripts
 ros2 launch mavros apm.launch fcu_url:=udp://127.0.0.1:14550@14555
 ```
 
-## Running the teleop node
+## Building and sourcing the workspace
 
 ```bash
 # Build and source the worksapce
 cd ~/AeroClub-SLAM/workspace
 colcon build
 source install/setup.bash
+```
+
+
+## Running the teleop node
+
+```bash
 ros2 run slam drone_teleop
 ```
